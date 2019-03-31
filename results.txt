@@ -1,0 +1,9 @@
+Name of the user aashish
+
+Score stats [40, -10, 40]
+Total marks stats [40, 50, 40]
+
+Your obtained marks are 70
+Total marks are 130
+
+Coongrats! You have achieved 53% marks

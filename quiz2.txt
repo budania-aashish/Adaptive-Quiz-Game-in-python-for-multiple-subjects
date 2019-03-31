@@ -1,0 +1,16 @@
+Algorithm is the graphical representation of logic. 
+True
+sizeof( ) is a function that returns the size of a variable. 
+True
+The ++ operator increments the operand by 1, whereas, the -- operator decrements it by 1.
+True
+It is necessary that a loop counter must only be an int. It cannot be a float.
+False
+A zero value is considered to be false and a non-zero value is considered to be true.
+True
+= is used for comparison, whereas, == is used for assignment of two quantities.
+False
+Blank spaces may be inserted between two words to improve the readability of the statement.
+True
+The keywords cannot be used as variable names.
+True

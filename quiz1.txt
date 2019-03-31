@@ -1,0 +1,12 @@
+continue keyword skip one iteration of loop?
+True
+Switch statement can have any number of case instances
+False
+Two case constants within the same switch statement can have the same value.
+True
+ferror( ) reports any error that might have occurred during a read/write operation on a file.
+False
+A file opened for writing already exists its contents would be overwritten.
+True
+Structure is collection of dissimilar data types.
+True
