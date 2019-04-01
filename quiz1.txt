@@ -1,12 +1,22 @@
-continue keyword skip one iteration of loop?
+What is the next prime number after 7?
+11
+The perimeter of a circle is also known as what?
+The circumference
+65 – 43 = ?
+22
+True or false? A convex shape curves outwards.
 True
-Switch statement can have any number of case instances
+What does the square root of 144 equal?
+12
+True or false? Pi can be correctly written as a fraction.
 False
-Two case constants within the same switch statement can have the same value.
+What comes after a million, billion and trillion?
+A quadrillion
+52 divided by 4 equals what?
+13
+What is the bigger number, a googol or a billion?
+A googol
+True or false? Opposite angles of a parallelogram are equal.
 True
-ferror( ) reports any error that might have occurred during a read/write operation on a file.
-False
-A file opened for writing already exists its contents would be overwritten.
-True
-Structure is collection of dissimilar data types.
-True
+2+2=?
+4

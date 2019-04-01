@@ -1,12 +1,14 @@
-= is used for comparison, whereas, == is used for assignment of two quantities.
+One root of x^2-2x+1=0 is ?
+1
+Counnt of prime numbers till 100?
+25
+root of 144 + root of 225 equals what?
+13
+What is the bigger number, a googol or a billion?
+A googol
+Opposite angles of a parallelogram are equal. True or false? 
+True
+True or false? In an isosceles triangle all sides are unequal.
 False
-Blank spaces may be inserted between two words to improve the readability of the statement.
-True
-The keywords cannot be used as variable names.
-True
-ferror( ) reports any error that might have occurred during a read/write operation on a file.
-False
-A file opened for writing already exists its contents would be overwritten.
-True
-Structure is collection of dissimilar data types.
-True
+In statistics, the middle value of an ordered set of values is called what?
+median

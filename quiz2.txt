@@ -1,16 +1,20 @@
-Algorithm is the graphical representation of logic. 
+87 + 56 = ?
+143
+How many sides does a nonagon have?
+9
+True or false? -2 is an integer.
 True
-sizeof( ) is a function that returns the size of a variable. 
-True
-The ++ operator increments the operand by 1, whereas, the -- operator decrements it by 1.
-True
-It is necessary that a loop counter must only be an int. It cannot be a float.
+What is the next number in the Fibonacci sequence: 0, 1, 1, 2, 3, 5, 8, 13, 21, 34, ?
+55
+7 x 9 = ?
+63
+True or false? In an isosceles triangle all sides are unequal.
 False
-A zero value is considered to be false and a non-zero value is considered to be true.
-True
-= is used for comparison, whereas, == is used for assignment of two quantities.
+In statistics, the middle value of an ordered set of values is called what?
+median
+What does 3 squared equal?
+9
+True or false? -4 is a natural number.
 False
-Blank spaces may be inserted between two words to improve the readability of the statement.
-True
-The keywords cannot be used as variable names.
-True
+5 to the power of 0 equals what?
+1

@@ -1,9 +1,9 @@
-Name of the user aashish
+Name of the user Aashish budania
 
-Score stats [40, -10, 40]
-Total marks stats [40, 50, 40]
+Score stats [40, 50, -10]
+Total marks stats [40, 50, 50]
 
-Your obtained marks are 70
-Total marks are 130
+Your obtained marks are 80
+Total marks are 140
 
-Coongrats! You have achieved 53% marks
+Coongrats! You have achieved 57% marks
